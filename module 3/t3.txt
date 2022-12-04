@@ -1,0 +1,5 @@
+hello
+i am aditya
+i am doing python + django web devlopment course.
+i love photography.
+i have a canon camera.
